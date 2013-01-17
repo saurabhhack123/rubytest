@@ -1,0 +1,21 @@
+1. Make a class named book with attributes id, price and name. 
+2. Set some default values for the price and name, id should increment from 0
+
+3. Make a module with a function to calculate the final sale price (price + price * sale_tax_percent) where sale_tax_percent is a constant
+4. call this function for all the book objects created
+
+5. If price of a given book is 0, catch the exception and prompt user to enter a new price and check again.
+6. Write a function to search a book with name and print the result
+
+7. Make a class edition that would inherit book and would have attribute - edition number.
+8. Make an interface where user can create as many editions until they want to exit, you should get edition number, price and name from the user.
+
+9 . print the books once user is done filling.
+10. namespace all class definitions.
+
+11. Perform the price check everytime you create a new edition.
+
+
+
+
+12. Create a gem Utilities which when included will give you functional programming functions in your app, like filter, find like underscorejs
